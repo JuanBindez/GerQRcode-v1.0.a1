@@ -1,3 +1,6 @@
+#python 3.10
+
+
 from cProfile import label
 import pyqrcode
 import png
