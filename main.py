@@ -1,4 +1,5 @@
 #python 3.10
+# sudo apt-get install python3-tk
 
 
 from cProfile import label
