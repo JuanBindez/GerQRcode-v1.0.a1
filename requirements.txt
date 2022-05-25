@@ -1,0 +1,5 @@
+altgraph==0.17.2
+pyinstaller==5.1
+pyinstaller-hooks-contrib==2022.5
+pypng==0.0.21
+PyQRCode==1.2.1
