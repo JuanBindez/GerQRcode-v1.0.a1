@@ -1,6 +1,11 @@
-#python 3.10
+'''
+Author: www.github.com/JuanBindez
+Description: qrcode generator
+Python Version: 3.10
+year: 2022
+Local: Brazil
+'''
 # sudo apt-get install python3-tk
-
 
 from cProfile import label
 import pyqrcode
