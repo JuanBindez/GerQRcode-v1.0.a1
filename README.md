@@ -1,6 +1,1 @@
-# GerQRcode
-
-software feito com Tkinter para interface gráfica
-
-
-### PARA GERAR EXECUTAVEL USE O PYINSTALER
+# GerQRcode v1.0-a
