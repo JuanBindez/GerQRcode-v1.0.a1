@@ -1,4 +1,5 @@
-# GERADOR-DE-QRCODE-COM-INTERFACE
+# GerQRcode
+
 software feito com Tkinter para interface gráfica
 
 
