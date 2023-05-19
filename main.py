@@ -42,7 +42,6 @@ def converter():
     time.sleep(2)
     messagebox.showinfo("QRcode Converter", "Seu QRCODE Esta Pronto")
 
-
 window = Tk()
 
 window.title("Gerador De QRcode")
