@@ -31,7 +31,6 @@ import time
 
 
 def converter():
-
     entrada = entrada_de_dados.get()
     saida = nome_de_saida_do_arquivo.get()
 
@@ -47,7 +46,6 @@ window = Tk()
 window.title("Gerador De QRcode")
 window.geometry("400x400")
 
-
 label = Label(window, text="Cole Aqui")
 label.grid(row=0, column=0)
 entrada_de_dados = Entry(window, width=10)
@@ -60,6 +58,5 @@ nome_de_saida_do_arquivo.grid(row=1, column=1)
 
 botao = Button(window, text="Converter", command=converter)
 botao.grid(row=4, column=1)
-
 
 window.mainloop()
